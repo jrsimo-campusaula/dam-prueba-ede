@@ -3,3 +3,9 @@ Primer repositorio creado para el módulo de EDE en DAM. Para el centro Aula Cam
 Creado por: José Ramón Simó
 
 Encontrado bug.
+
+    / /
+  ( .).)
+ ( ,__. )
+  >   <  
+  Hola!
